@@ -47,6 +47,7 @@ header a:hover {
 
 footer {
   margin-top: 10px;
-  background-color: #ddffdd;
+  padding: 5px;
+  background-color: #eeffee;
   text-align: center;
 }
