@@ -44,3 +44,10 @@ header nav {
 header a:hover {
   font-weight: bold;
 }
+
+footer {
+  padding: 20px;
+  margin-top: 15px;
+  background-color: eeeeee;
+  text-align: center;
+}
