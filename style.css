@@ -40,3 +40,8 @@ header #logotype {
 header nav {
   float: right;
 }
+
+header .highlight, header .current a {
+  color: 000000;
+  font-weight: bold;
+}
