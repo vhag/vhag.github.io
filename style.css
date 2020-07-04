@@ -13,4 +13,6 @@ body {
 header {
   background-color: #475947;
   text-color: #ffffff;
+  padding-top: 25px;
+  min-height: 70px;
 }
