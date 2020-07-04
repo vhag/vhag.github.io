@@ -9,3 +9,8 @@ body {
   margin: auto;
   overflow: hidden;
 }
+
+header {
+  background-color: #475947;
+  text-color: #ffffff;
+}
