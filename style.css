@@ -41,7 +41,6 @@ header nav {
   float: right;
 }
 
-header .highlight, header .current a {
-  color: 000000;
+header a:hover {
   font-weight: bold;
 }
