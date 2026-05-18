@@ -1,19 +1,2 @@
 title: Örebro poesiklubb
 author: Örebro poesiklubbs redaktion
-
-
-navbar-links:
-  Textkonst: "text"
-  Ljudkonst: "ljud"
-  Recensioner: "recensioner"
-
-social-network-links:
-  email: "test@example.com"
-  instagram: orebropoesiklubb
-
-share-links-active:
-  facebook: true
-  instagram: true
-  twitter: true
-
-
