@@ -1,3 +1,7 @@
+# En webbplats för Örebro poesiklubb, allting kan ändras.
+
+
+
 # Poesi
 lämmel strump / läst i juni / junior jukebox
 
