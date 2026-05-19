@@ -1,6 +1,6 @@
 ---
 title: Örebro poesiklubb
-layout: default
+layout: home
 ---
 
 ## Poesi
